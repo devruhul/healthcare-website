@@ -1,0 +1,18 @@
+.contact-us {
+   background-image: url("../../../src/images/GP-Practices-banner.jpg");
+   background-repeat: no-repeat;
+   padding-bottom: 700px;
+   background-position: 100%;
+   background-size: cover;
+}
+
+.contact-us h1 {
+   color: #fff;
+   font-size: 64px;
+   font-weight: 600;
+   background-color: hsla(312, 73%, 37%, 0.384);
+}
+
+.form-style {
+   overflow: hidden;
+}

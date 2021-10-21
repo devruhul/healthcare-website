@@ -1,0 +1,13 @@
+.about-us {
+   background-image: url("../../../src/images/Palliative-Care-Banner-768x386.jpg");
+   background-repeat: no-repeat;
+   padding-bottom: 300px;
+   background-size: cover;
+}
+
+.about-us h1 {
+   color: #fff;
+   font-size: 64px;
+   font-weight: 600;
+   background-color: hsla(312, 73%, 37%, 0.384);
+}

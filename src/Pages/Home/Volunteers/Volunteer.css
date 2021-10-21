@@ -1,0 +1,12 @@
+.volunteer {
+   padding: 10px;
+
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.volunteer img {
+   width: 900px;
+   padding: 20px;
+}
